@@ -40,8 +40,8 @@ I'm **Dang Quang**, a software developer from Vietnam who enjoys taking ideas fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DangQuangSE&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=8250DF&rank_icon=github" alt="Dang Quang's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangQuangSE&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DangQuangSE&theme=github_dark" alt="Dang Quang's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DangQuangSE&theme=github_dark" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=DangQuangSE&hide_border=true&background=00000000&ring=58A6FF&fire=8250DF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub contribution streak" />
 
