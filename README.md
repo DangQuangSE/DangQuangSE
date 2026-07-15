@@ -15,3 +15,15 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,flutter,dart,react,ts,unity,godot,mysql,postgres,docker,git,github,vscode&perline=8)](https://skillicons.dev)
 
 </div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DangQuangSE/DangQuangSE/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DangQuangSE/DangQuangSE/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating Dang Quang's contribution graph" src="https://raw.githubusercontent.com/DangQuangSE/DangQuangSE/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
