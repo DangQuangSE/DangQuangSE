@@ -8,7 +8,7 @@
 
 </div>
 
-## 🧰 Tech stack
+##  Tech stack
 
 <div align="center">
 
